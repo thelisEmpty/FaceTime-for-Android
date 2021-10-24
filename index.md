@@ -1,29 +1,16 @@
-## Welcome to GitHub Pages
+## TheLisIsEmpty
 
-You can use the [editor on GitHub](https://github.com/thelisEmpty/FaceTime-for-Android/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### FaceTime for Android
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can call Android to FaceTime
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://play.google.com/store/apps/details?id=com.thelis.facetimeforandoid) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
