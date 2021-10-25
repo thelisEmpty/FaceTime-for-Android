@@ -17,5 +17,6 @@ It works on RoomDatabase, consists of several fragments, the project also includ
 ## Contacts
 
 [Email](thelisisempty@gmail.com)
-[Telegram](https://tlgg.ru/thelis)
+
+![Telegram](https://tlgg.ru/thelis)
 ## }
